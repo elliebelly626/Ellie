@@ -4,7 +4,7 @@ class Main {
   public static void main(String[] args){
     while(true){
       System.out.println("Would you like a quote from:");
-      System.out.println("1 - Corpse Bride");
+      System.out.println("1 - Corpse Bride");//ruby
       System.out.println("2 - Coraline");
       System.out.println("3 - Beetle Juice");
       int movie = input.nextInt();
